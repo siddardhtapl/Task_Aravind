@@ -1,7 +1,7 @@
 ## Python
  1. Write a python script that iterates over the JSON present inside the locations.json file in this repository.
  2. Send a post request to the URL http://192.168.0.186:8000/location/store/ to store each location one after the other in the database with a delay of 2 seconds between each request.
- 3. The postman collection is available as reference for sending data to the api
+ 3. The postman collection is available as reference for sending data to the api.
 ** Postman Collection: https://www.getpostman.com/collections/6b2f33fe65db6316bd07 **
 
 ## Data Rendering in Google Maps
