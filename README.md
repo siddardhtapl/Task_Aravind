@@ -13,13 +13,6 @@
  6. Once you get a new location as response, you are supposed to remove the old google marker and place the new marker on the new location you obtained as a response.
 
 
-## Form Validation using AngularJs
-
- 1. Create a form using HTML with input elements as in the Form.jpg image file.
- 2. The constraints to validate the form are provided in the constraints.jpg image file.
- 
-  ** All the image files mentioned above are available inside form_sample folder **
-
 ## Time alloted to finish the task is 1.5 hours
 
 **ALL THE BEST**
